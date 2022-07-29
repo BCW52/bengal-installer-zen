@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=BengalBoot Installer
+GenericName=Live Installer
+Exec=/usr/bin/calamares_polkit %f
+Icon=bengal-installer
+Terminal=false
+StartupNotify=true
+Type=Application
+Categories=Qt;System;
